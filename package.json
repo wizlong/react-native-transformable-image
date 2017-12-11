@@ -1,5 +1,5 @@
 {
-  "name": "@realgeeks/react-native-transformable-image",
+  "name": "react-native-transformable-image",
   "version": "0.1.1",
   "description": "",
   "main": "library/TransformableImage.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realgeeks/react-native-transformable-image.git"
+    "url": "git+https://github.com/wizlong/react-native-transformable-image.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/realgeeks/react-native-transformable-image/issues"
+    "url": "https://github.com/wizlong/react-native-transformable-image/issues"
   },
-  "homepage": "https://github.com/realgeeks/react-native-transformable-image#readme",
+  "homepage": "https://github.com/wizlong/react-native-transformable-image#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
     "prop-types": "*"
   },
   "dependencies": {
-    "@realgeeks/react-native-view-transformer": "0.1.0"
+    "react-native-view-transformer": "wizlong/react-native-view-transformer"
   }
 }
